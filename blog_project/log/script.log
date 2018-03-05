@@ -1,0 +1,219 @@
+2018-01-28 17:54:11,590 [Thread-3:140019609310976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 17:54:11,592 [Thread-4:140019597940480] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 17:54:11,593 [Thread-6:140019581155072] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 17:54:11,597 [Thread-5:140019589547776] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 17:54:11,598 [Thread-7:140019572762368] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 17:54:11,605 [Thread-8:140019609310976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 17:54:11,608 [Thread-9:140019597940480] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 17:54:11,612 [Thread-10:140019222181632] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 17:54:11,617 [Thread-11:140019581155072] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 17:54:11,627 [Thread-12:140019572762368] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 17:54:11,631 [Thread-13:140019597940480] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 17:54:11,638 [Thread-14:140019597940480] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 17:54:11,640 [Thread-15:140019572762368] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 17:54:11,648 [Thread-16:140019581155072] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 17:54:11,653 [Thread-17:140019222181632] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 17:54:54,681 [Thread-3:140155975698176] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 17:54:54,683 [Thread-4:140155964327680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 17:54:54,685 [Thread-5:140155955934976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 17:54:54,687 [Thread-6:140155947542272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 17:54:54,690 [Thread-7:140155939149568] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 17:54:54,694 [Thread-8:140155587393280] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 17:54:54,698 [Thread-9:140155975698176] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 17:54:54,701 [Thread-10:140155947542272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 17:54:54,709 [Thread-11:140155964327680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 17:54:54,719 [Thread-12:140155964327680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 17:54:54,724 [Thread-13:140155964327680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 17:54:54,726 [Thread-14:140155947542272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 17:54:54,730 [Thread-15:140155975698176] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 17:54:54,733 [Thread-16:140155947542272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 17:55:38,492 [Thread-3:140701173929728] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 17:55:38,494 [Thread-4:140701162559232] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 17:55:38,495 [Thread-5:140701154166528] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 17:55:38,498 [Thread-6:140701145773824] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 17:55:38,500 [Thread-7:140701173929728] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 17:55:38,503 [Thread-8:140701154166528] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 17:55:38,504 [Thread-9:140701162559232] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 17:55:38,506 [Thread-10:140701145773824] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 17:55:38,510 [Thread-11:140701173929728] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 17:55:38,551 [Thread-12:140701173929728] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 17:55:38,665 [Thread-13:140701173929728] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 17:55:38,734 [Thread-14:140701173929728] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 17:55:38,738 [Thread-15:140701145773824] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 17:55:38,749 [Thread-17:140701162559232] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 17:55:38,744 [Thread-16:140701154166528] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 17:55:38,805 [Thread-18:140701162559232] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-01-28 17:56:28,739 [Thread-23:140701162559232] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/admin/css/base.css
+2018-01-28 17:56:28,740 [Thread-24:140701154166528] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/admin/css/login.css
+2018-01-28 17:56:28,742 [Thread-25:140701145773824] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/admin/css/responsive.css
+2018-01-28 18:01:22,604 [Thread-3:139772688480000] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 18:01:22,607 [Thread-4:139772677109504] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 18:01:22,613 [Thread-5:139772462888704] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 18:01:22,617 [Thread-6:139772688480000] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 18:01:22,620 [Thread-7:139772462888704] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 18:01:22,622 [Thread-8:139772677109504] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 18:01:22,624 [Thread-9:139772688480000] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 18:01:22,628 [Thread-10:139772454496000] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 18:01:22,636 [Thread-11:139772446103296] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 18:01:22,642 [Thread-12:139772446103296] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 18:32:09,763 [Thread-6:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 18:32:09,764 [Thread-8:140682157078272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 18:32:09,764 [Thread-4:140682190649088] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 18:32:09,765 [Thread-7:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 18:32:09,765 [Thread-5:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 18:32:09,771 [Thread-9:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 18:32:09,782 [Thread-10:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 18:32:09,784 [Thread-12:140682157078272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 18:32:09,785 [Thread-11:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 18:32:09,786 [Thread-13:140682190649088] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 18:32:17,239 [Thread-15:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 18:32:17,241 [Thread-16:140682190649088] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 18:32:17,243 [Thread-17:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 18:32:17,245 [Thread-18:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 18:32:17,248 [Thread-19:140682157078272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 18:32:17,252 [Thread-20:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 18:32:17,254 [Thread-21:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 18:32:17,256 [Thread-22:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 18:32:17,259 [Thread-23:140682157078272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 18:33:16,967 [Thread-25:140682157078272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 18:33:16,970 [Thread-26:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 18:33:16,972 [Thread-27:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 18:33:16,974 [Thread-28:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 18:33:16,979 [Thread-29:140682157078272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 18:33:16,980 [Thread-30:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 18:33:16,982 [Thread-31:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 18:33:16,987 [Thread-32:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 18:33:16,988 [Thread-33:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 18:33:16,990 [Thread-34:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 18:33:16,994 [Thread-35:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 18:33:17,001 [Thread-36:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 18:33:17,004 [Thread-37:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 18:33:17,006 [Thread-38:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 18:33:17,010 [Thread-39:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 18:33:24,487 [Thread-41:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-28 18:33:24,489 [Thread-42:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-28 18:33:24,491 [Thread-43:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-28 18:33:24,493 [Thread-44:140682157078272] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-28 18:33:24,495 [Thread-45:140682190649088] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/js/nav.js
+2018-01-28 18:33:24,499 [Thread-46:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a3.jpg
+2018-01-28 18:33:24,502 [Thread-47:140682182256384] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a1.jpg
+2018-01-28 18:33:24,504 [Thread-48:140682173863680] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a2.jpg
+2018-01-28 18:33:24,507 [Thread-49:140682165470976] [django.request:93] [base:get_response] [WARNING]- Not Found: /static/images/a4.jpg
+2018-01-28 21:36:47,402 [Thread-73:140002282219264] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Python/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Python/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Python/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Python/blog_project/blog/views.py", line 35, in index
+    return render(request,"index.html",locals())
+  File "/Python/venv/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 211, in render
+    nodelist.append(node.render_annotated(context))
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 447, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Python/venv/lib/python3.6/site-packages/django/urls/base.py", line 88, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Python/venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 632, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'tag' not found. 'tag' is not a valid view function or pattern name.
+2018-01-28 21:54:11,297 [Thread-11:140635684206336] [django.request:93] [base:get_response] [WARNING]- Not Found: /portal.php
+2018-01-28 22:44:22,982 [Thread-2:139674920023808] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Python/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Python/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Python/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Python/blog_project/blog/views.py", line 38, in index
+    return render(request,"index.html",locals())
+  File "/Python/venv/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 910, in render_annotated
+    return self.render(context)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 182, in render
+    template = context.template.engine.get_template(template_name)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/loaders/base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 483, in parse
+    raise self.error(token, e)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 815, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 488, in parse
+    self.unclosed_block_tag(parse_until)
+  File "/Python/venv/lib/python3.6/site-packages/django/template/base.py", line 549, in unclosed_block_tag
+    raise self.error(token, msg)
+django.template.exceptions.TemplateSyntaxError: Unclosed tag on line 4: 'for'. Looking for one of: empty, endfor.
+2018-01-28 22:48:14,922 [Thread-57:139674668488448] [django.request:93] [base:get_response] [WARNING]- Not Found: /ad/2018/01/1.jpg
+2018-01-28 22:48:14,959 [Thread-58:139674668488448] [django.request:93] [base:get_response] [WARNING]- Not Found: /ad/2018/01/1.jpg
+2018-01-28 22:48:19,432 [Thread-65:139674920023808] [django.request:93] [base:get_response] [WARNING]- Not Found: /ad/2018/01/1.jpg
+2018-01-28 22:48:19,465 [Thread-66:139674920023808] [django.request:93] [base:get_response] [WARNING]- Not Found: /ad/2018/01/1.jpg
+2018-01-28 23:28:50,609 [Thread-8:139758160492288] [django.request:93] [base:get_response] [WARNING]- Not Found: /base.html
+2018-01-29 15:42:57,197 [Thread-4:139796459759360] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-01-29 15:44:31,819 [Thread-39:139796430292736] [django.request:93] [base:get_response] [WARNING]- Not Found: /portal.php
+2018-01-29 16:35:52,761 [Thread-13:140476703307520] [django.request:93] [base:get_response] [WARNING]- Not Found: /portal.php
+2018-01-29 16:40:51,746 [Thread-6:139733394876160] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-01-31 21:35:52,656 [Thread-26:139979783554816] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-02-01 10:59:23,409 [Thread-8:139847854712576] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-05 13:15:52,697 [Thread-26:140077242644224] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-05 13:15:57,569 [Thread-28:140077242644224] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
